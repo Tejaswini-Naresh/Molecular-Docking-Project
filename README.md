@@ -16,4 +16,5 @@ This repository contains the computational workflow, input, output and configura
   * **TRP46B** (primary hydrophobic/aromatic anchor with parallel $\pi$-stacking and a $3.05\text{ Å}$ H-bond)
   * **ARG51A** (triple H-bond cluster from $2.09\text{ Å} - 2.18\text{ Å}$)
   * **GLU47B**, **THR45B**, **TRP28A**, **LEU98A**, and **GLU112A**
-  Project made for educational and portfolio purposes, completed as a part of a workshop (by Biovagon) 
+  
+Project made for educational and portfolio purposes, completed as a part of a workshop (by Biovagon) 
